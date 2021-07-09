@@ -38,8 +38,9 @@ p {
 
 /* Navigation Bar */
 .navbar {
-    padding-top:0;
-    padding-bottom: 6rem
+    padding-top:3%;
+    padding-bottom: 6rem;
+    padding-left: 3%;
 }
 
 .navbar-brand {
@@ -59,6 +60,7 @@ p {
 
 /* Title Image */
 .title-image {
+    padding-top: 3%;
     width: 70%;
 }
 
