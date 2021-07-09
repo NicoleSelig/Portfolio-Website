@@ -1,0 +1,101 @@
+#title {
+    background-color: black;
+    color: #3D3E40;
+    font-size: 3.5rem;
+}
+
+.container-fluid {
+    padding: 3% 15% 15%;
+}
+
+body {
+    font-family: 'Montserrat';
+    position: absolute;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+p {
+    color: #3D3E40;
+}
+
+/* Navigation Bar */
+.navbar {
+    padding-top:0;
+    padding-bottom: 6rem
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+/* Title Image */
+.title-image {
+    width: 70%;
+}
+
+.title-col {
+    transform: rotate(22.5deg);
+}
+
+/* Call to Action */
+#cta {
+    background-color: black;
+    color: #3D3E40;
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+@media (max-width: 1028px) {
+    .title-image {
+        position: static;
+    }
+
+    .title-col {
+        transform: rotate(0);
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+@font-face {
+    font-family: Baby Marker;
+    src: url('BabyMarker-1GZaL.ttf');
+}
+
+/* Footer */
+#footer {
+    background-color: black;
+    color: #3D3E40;
+    padding-top: 0;
+}
