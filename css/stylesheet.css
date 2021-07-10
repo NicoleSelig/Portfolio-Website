@@ -1,5 +1,5 @@
 #title {
-    background-color: black;
+    background-color: #111113;
     color: #3D3E40;
     font-size: 3.5rem;
 }
@@ -11,7 +11,7 @@
 body {
     font-family: 'Montserrat';
     position: absolute;
-    background-color: black;
+    background-color: #111113;
 }
 
 h1 {
@@ -70,7 +70,7 @@ p {
 
 /* Call to Action */
 #cta {
-    background-color: black;
+    background-color: #111113;
     color: #3D3E40;
     text-align: center;
     font-size: 3.5rem;
@@ -90,7 +90,7 @@ p {
     }
 
     .nav-item {
-        background-color: black;
+        background-color: #111113;
     }
 }
 
@@ -101,7 +101,7 @@ p {
 
 /* Footer */
 #footer {
-    background-color: black;
+    background-color: #111113;
     color: #3D3E40;
     padding-top: 0;
 }
